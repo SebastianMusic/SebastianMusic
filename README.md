@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @SebastianMusic
 - I am currently in my first year of a bachelors in computer science.
 - i have recently picked up Neovim and Tmux and working on the perfect setup
 
