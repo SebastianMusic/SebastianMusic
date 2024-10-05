@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SebastianMusic
-- 👀 I’m interested in Music, AI, and programming
-- 🌱 I’m currently learning Python, machine learning,
-- 📚 I’m studying a bachelors in music
-- 📫 How to reach me ...
+- I am currently in my first year of a bachelors in computer science.
+- i have recently picked up Neovim and Tmux and working on the perfect setup
 
 <!---
 SebastianMusic/SebastianMusic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
