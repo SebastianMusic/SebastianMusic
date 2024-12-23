@@ -1,5 +1,5 @@
 - First year computer science student UiA Grimstad, Norway.
-- Interested in modern solutions to modern problems
+- Interested in modern problems
 - Working on a tool that will empower individuals to better regulate their internet usage
   
   ---
