@@ -1,7 +1,7 @@
 - First year computer science student UiA Grimstad, Norway.
 - Research assistant at [CreaTeME](https://createme.uia.no)
 - Interested in modern problems
-- Currently learning the assembly programming language
+- Currently learning C plus plus
 - Working on a tool that will empower individuals to better regulate their internet usage
   
   ---
