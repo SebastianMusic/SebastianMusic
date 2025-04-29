@@ -1,8 +1,7 @@
 - First year computer science student UiA Grimstad, Norway.
 - Research assistant at [CreaTeME](https://createme.uia.no)
-- Interested in modern problems
-- Currently learning C++
-- Currently in last stages of my nvim clipboard sync plugin
+- Currently learning React and typescript
+- Working on my a mobile app
   
   ---
   ### Familiar tools
