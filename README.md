@@ -1,7 +1,5 @@
-- Second year computer science student UiA Grimstad, Norway.
-- Research assistant at [CreaTeME](https://createme.uia.no)
-- Currently learning React and Typescript
-- Working on a mobile app
+- Third year computer science student UiA Grimstad, Norway.
+- Currently learning kubernetes
   
   ---
   ### Familiar tools
